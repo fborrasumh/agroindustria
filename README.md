@@ -4,6 +4,8 @@ Práctica adaptativa, simulacro, problemas de proyecto y laboratorio APPCC de Pr
 
 **Usar la app:** https://fborrasumh.github.io/agroindustria/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23823263.svg)](https://doi.org/10.5281/zenodo.23823263)
+
 **Idiomas:** español (por defecto), inglés, portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 Sistema de aprendizaje de la asignatura **2778 Proyectos de Industrias Agroalimentarias** (optativa, 1.er curso, 2.º semestre, 4,5 ECTS) del Máster Universitario en Gestión y Diseño de Proyectos e Instalaciones (Escuela Politécnica Superior de Orihuela, Universidad Miguel Hernández de Elche), construido a partir de su Guía Docente 2026-2027 (validada el 02/07/2026).
@@ -87,7 +89,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F., Pastor Pérez, J. J. y Frutos Fernández, M. J. (2026). *AgroindustrIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F., Pastor Pérez, J. J. y Frutos Fernández, M. J. (2026). *AgroindustrIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23823263](https://doi.org/10.5281/zenodo.23823263)
 
 ## Licencia
 
